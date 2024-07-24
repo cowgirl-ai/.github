@@ -1,1 +1,1 @@
-# .github
+*Cowgirl AI*
