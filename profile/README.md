@@ -1,8 +1,5 @@
 # Cowgirl AI 
 
-Welcome to Cowgirl AI. We are hell-bent on creating a product that will be every single organization’s one-stop-shop for data refinement. Just like Rockefeller used rigs to refine oil into gas, we’re using AI to refine data into warehouses (and beyond). We are going to streamline **everything** (yes, everything) and make the modern ETL/API integration processes run as smooth as a well oiled machine.
-
-Our mission is to build the first-ever, end-to-end data refinery using AI technology, serving up data to our users just the way they like it (finally).
 
 
 
