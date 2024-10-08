@@ -1,1 +1,1 @@
-*Cowgirl AI*
+Hephaestia AI
