@@ -1,4 +1,4 @@
-# Cowgirl AI 
+# Hephaestia AI 
 
 
 
