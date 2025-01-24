@@ -1,9 +1,6 @@
-# Hephaestia AI 
+# CgAI
 
 
-
-
-![Alt text](https://github.com/Cowgirl-AI/.github/blob/main/profile/branding/Come%20Back%20Soon.png)
 <!--
 
 **Here are some ideas to get you started:**
